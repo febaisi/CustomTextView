@@ -24,6 +24,10 @@ You <b>must</b> add your font under assets/font folder.<br>
 ![Custom font folder](https://raw.githubusercontent.com/febaisi/CustomTextView/master/wiki/assets_folder.png) 
 <br><br>
 
+### Testing
+![Device Screenshot](https://raw.githubusercontent.com/febaisi/CustomTextView/master/wiki/device_screenshot.png) 
+
+
 ## Development
 Feel free to contribute with your own attributes to the custom-textView module.
 To add more variables to this component, declare it in attrs.xml and add your custom behavior in CustomTextView.java.
