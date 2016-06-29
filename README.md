@@ -9,6 +9,7 @@ compile 'com.febaisi:custom-textview:0.0.3'
 
 ### Usage
 Add CustomTextView component to your layout. Declare your font name in app:typeface attribute.
+Don't forget to add xmlns:app atribute.
 ```
     <com.febaisi.CustomTextView
         xmlns:app="http://schemas.android.com/apk/res-auto"
